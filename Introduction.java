@@ -14,6 +14,7 @@
      System.out.println("I am going to JL mann high school");
      System.out.println("My mother is, Hope and she is 49");
      System.out.println("I like to camp, hike, and game");
+     System.out.println("I like cake eksdedededededededededededededeededeeeeededededededededededededdedeeededededededededededededededededededededededededededededededdeed");
      
      // Now store some numbers
      
